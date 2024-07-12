@@ -17,6 +17,8 @@
 </li>
 
 ### Pigma
+<hr>
+
 ![캡처](/Figma/Login.png/)
 ![캡처](/Figma/Home.png/)
 ![캡처](/Figma/CreateItem.png/)
