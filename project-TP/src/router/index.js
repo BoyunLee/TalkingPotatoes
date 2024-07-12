@@ -39,7 +39,7 @@ const isLoggedIn = () => {
 // 로그인 라우터 가드
 const loginRouterGuard = (to, from, next) => {
   if (!isLoggedIn() && to.name !== 'Login') {
-    alert("로그인이 필요합니다!")
+    alert("로그인이 필요합니다!");
     next({ name: 'Login' });
   } else {
     next();
