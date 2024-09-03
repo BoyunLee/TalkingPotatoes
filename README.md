@@ -1,6 +1,6 @@
 # TalkingPotatoes (KB IT's Your Life 5기) 온라인 가계부
 
-### People
+## People
 
 | <img src="https://github.com/BoyunLee.png" width="80"> | <img src="https://github.com/Hwijun-Kim.png" width="80"> | <img src="https://github.com/pangminwhere.png" width="80"> | <img src="https://github.com/ShinDong17.png" width="80"> | <img src="https://github.com/minjeongj0.png" width="80"> |
 | :----------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: |
