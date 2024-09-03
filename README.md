@@ -18,12 +18,11 @@
 
 ### Pigma
 
-![캡처](/Figma/Login.png/)
-![캡처](/Figma/Home.png/)
-![캡처](/Figma/CreateItem.png/)
-![캡처](/Figma/Summary.png/)
-![캡처](/Figma/Summary2.png/)
-![캡처](/Figma/TotalView.png/)
-![캡처](/Figma/UpdateItem.png/)
-![캡처](/Figma/Profile.png/)
+![캡처](/Page/Login.png/)
+![캡처](/Page/HomePage.png/)
+![캡처](/Page/summary.png/)
+![캡처](/Page/summary2.png/)
+![캡처](/Page/Total.png/)
+![캡처](/Page/New.png/)
+![캡처](/Page/Profile.png/)
 ![캡처](/Figma/vue-router_구성도.png/)
